@@ -32,6 +32,10 @@
 					"label": "",
 					"locked": false,
 					"name": "",
+					"rule": {
+						"condition": "",
+						"rules": []
+					},
 					"settings": [
 						{
 							"attributes": [],
@@ -43,11 +47,11 @@
 						},
 						{
 							"attributes": [],
-							"computedValue": "Test",
+							"computedValue": "Test Added new content",
 							"displayName": "Content",
 							"name": "content",
 							"type": 1,
-							"value": "Test"
+							"value": "Test Added new content"
 						},
 						{
 							"attributes": [],
