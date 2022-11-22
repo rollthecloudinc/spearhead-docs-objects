@@ -47,11 +47,11 @@
 						},
 						{
 							"attributes": [],
-							"computedValue": "Test Added new content",
+							"computedValue": "\u003carticle class=\"prose\"\u003e\n\u003cp\u003eTest Added new content\u003c/p\u003e\n\u003c/article\u003e",
 							"displayName": "Content",
 							"name": "content",
 							"type": 1,
-							"value": "Test Added new content"
+							"value": "\u003carticle class=\"prose\"\u003e\n\u003cp\u003eTest Added new content\u003c/p\u003e\n\u003c/article\u003e"
 						},
 						{
 							"attributes": [],
