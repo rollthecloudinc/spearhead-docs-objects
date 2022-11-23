@@ -32,6 +32,10 @@
 					"label": "a57ea94f-9d9f-41aa-aff3-19745c3cbda4",
 					"locked": false,
 					"name": "a57ea94f-9d9f-41aa-aff3-19745c3cbda4",
+					"rule": {
+						"condition": "",
+						"rules": []
+					},
 					"settings": [
 						{
 							"attributes": [],
@@ -69,11 +73,11 @@
 																},
 																{
 																	"attributes": [],
-																	"computedValue": "Intro main content",
+																	"computedValue": "\u003carticle =\"prose md:prose-lg lg:prose-xl\"\u003e\n\n\u003ch1\u003eIntroduction\u003c/h1\u003e\n\n\u003ch3\u003eWhat is green software?\u003c/h3\u003e\n\n\u003cp\u003eGreen software is an emerging discipline at the intersection of climate science, software design, electricity markets, hardware, and data center design.\u003c/p\u003e\n\n\u003cp\u003eGreen software is carbon-efficient software, meaning it emits the least carbon possible. Only three activities reduce the carbon emissions of software; energy efficiency, carbon awareness, and hardware efficiency. This training will explain all of these concepts, how to apply them to your processes and how to measure them, as well as some of the international guidelines and organizations that guide and monitor this space.\u003c/p\u003e\n\n\u003c/article\u003e",
 																	"displayName": "Content",
 																	"name": "content",
 																	"type": 1,
-																	"value": "Intro main content"
+																	"value": "\u003carticle =\"prose md:prose-lg lg:prose-xl\"\u003e\n\n\u003ch1\u003eIntroduction\u003c/h1\u003e\n\n\u003ch3\u003eWhat is green software?\u003c/h3\u003e\n\n\u003cp\u003eGreen software is an emerging discipline at the intersection of climate science, software design, electricity markets, hardware, and data center design.\u003c/p\u003e\n\n\u003cp\u003eGreen software is carbon-efficient software, meaning it emits the least carbon possible. Only three activities reduce the carbon emissions of software; energy efficiency, carbon awareness, and hardware efficiency. This training will explain all of these concepts, how to apply them to your processes and how to measure them, as well as some of the international guidelines and organizations that guide and monitor this space.\u003c/p\u003e\n\n\u003c/article\u003e"
 																},
 																{
 																	"attributes": [],
@@ -129,6 +133,31 @@
 															"name": "contentPlugin",
 															"type": 1,
 															"value": "snippet"
+														},
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "condition",
+																	"name": "condition",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "rules",
+																	"name": "rules",
+																	"type": 4,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "rule",
+															"name": "rule",
+															"type": 2,
+															"value": null
 														}
 													],
 													"computedValue": null,
@@ -341,6 +370,14 @@
 											"name": "settings",
 											"type": 2,
 											"value": null
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "plugin",
+											"name": "plugin",
+											"type": 0,
+											"value": "undefined"
 										}
 									],
 									"computedValue": null,
@@ -407,6 +444,10 @@
 					"label": "f4fe327d-dd32-4397-a90a-a6aa6032ed99",
 					"locked": false,
 					"name": "f4fe327d-dd32-4397-a90a-a6aa6032ed99",
+					"rule": {
+						"condition": "",
+						"rules": []
+					},
 					"settings": [
 						{
 							"attributes": [],
