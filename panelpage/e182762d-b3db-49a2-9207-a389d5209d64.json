@@ -371,11 +371,142 @@
 															"name": "contentPlugin",
 															"type": 1,
 															"value": "snippet"
+														},
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "condition",
+																	"name": "condition",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "rules",
+																	"name": "rules",
+																	"type": 4,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "rule",
+															"name": "rule",
+															"type": 2,
+															"value": null
 														}
 													],
 													"computedValue": null,
 													"displayName": "2",
 													"name": "2",
+													"type": 2,
+													"value": null
+												},
+												{
+													"attributes": [
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "form-data; name=\"File\"; filename=\"GSF_Principles_Patterns_Practices_v2-c5e2753b6270473d1da02b97a1321d51.png\"",
+																	"displayName": "contentDisposition",
+																	"name": "contentDisposition",
+																	"type": 1,
+																	"value": "form-data; name=\"File\"; filename=\"GSF_Principles_Patterns_Practices_v2-c5e2753b6270473d1da02b97a1321d51.png\""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "contentType",
+																	"name": "contentType",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "GSF_Principles_Patterns_Practices_v2-c5e2753b6270473d1da02b97a1321d51",
+																	"displayName": "id",
+																	"name": "id",
+																	"type": 1,
+																	"value": "GSF_Principles_Patterns_Practices_v2-c5e2753b6270473d1da02b97a1321d51"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "113058",
+																	"displayName": "length",
+																	"name": "length",
+																	"type": 1,
+																	"value": "113058"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "media/GSF_Principles_Patterns_Practices_v2-c5e2753b6270473d1da02b97a1321d51.png",
+																	"displayName": "path",
+																	"name": "path",
+																	"type": 1,
+																	"value": "media/GSF_Principles_Patterns_Practices_v2-c5e2753b6270473d1da02b97a1321d51.png"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "placeholdername",
+																	"displayName": "fileName",
+																	"name": "fileName",
+																	"type": 1,
+																	"value": "placeholdername"
+																}
+															],
+															"computedValue": null,
+															"displayName": "settings",
+															"name": "settings",
+															"type": 2,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "false",
+															"displayName": "locked",
+															"name": "locked",
+															"type": 5,
+															"value": "false"
+														},
+														{
+															"attributes": [],
+															"computedValue": null,
+															"displayName": "contexts",
+															"name": "contexts",
+															"type": 4,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "",
+															"displayName": "name",
+															"name": "name",
+															"type": 1,
+															"value": ""
+														},
+														{
+															"attributes": [],
+															"computedValue": "",
+															"displayName": "label",
+															"name": "label",
+															"type": 1,
+															"value": ""
+														},
+														{
+															"attributes": [],
+															"computedValue": "media",
+															"displayName": "contentPlugin",
+															"name": "contentPlugin",
+															"type": 1,
+															"value": "media"
+														}
+													],
+													"computedValue": null,
+													"displayName": "3",
+													"name": "3",
 													"type": 2,
 													"value": null
 												}
