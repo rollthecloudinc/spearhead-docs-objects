@@ -165,6 +165,112 @@
 													"name": "0",
 													"type": 2,
 													"value": null
+												},
+												{
+													"attributes": [
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "form-data; name=\"File\"; filename=\"01_carbon_efficiency-e5ce9cc2af3c13c4154ff61a0267b2b5.png\"",
+																	"displayName": "contentDisposition",
+																	"name": "contentDisposition",
+																	"type": 1,
+																	"value": "form-data; name=\"File\"; filename=\"01_carbon_efficiency-e5ce9cc2af3c13c4154ff61a0267b2b5.png\""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "contentType",
+																	"name": "contentType",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "01_carbon_efficiency-e5ce9cc2af3c13c4154ff61a0267b2b5",
+																	"displayName": "id",
+																	"name": "id",
+																	"type": 1,
+																	"value": "01_carbon_efficiency-e5ce9cc2af3c13c4154ff61a0267b2b5"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "69087",
+																	"displayName": "length",
+																	"name": "length",
+																	"type": 1,
+																	"value": "69087"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "media/01_carbon_efficiency-e5ce9cc2af3c13c4154ff61a0267b2b5.png",
+																	"displayName": "path",
+																	"name": "path",
+																	"type": 1,
+																	"value": "media/01_carbon_efficiency-e5ce9cc2af3c13c4154ff61a0267b2b5.png"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "placeholdername",
+																	"displayName": "fileName",
+																	"name": "fileName",
+																	"type": 1,
+																	"value": "placeholdername"
+																}
+															],
+															"computedValue": null,
+															"displayName": "settings",
+															"name": "settings",
+															"type": 2,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "false",
+															"displayName": "locked",
+															"name": "locked",
+															"type": 5,
+															"value": "false"
+														},
+														{
+															"attributes": [],
+															"computedValue": null,
+															"displayName": "contexts",
+															"name": "contexts",
+															"type": 4,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "",
+															"displayName": "name",
+															"name": "name",
+															"type": 1,
+															"value": ""
+														},
+														{
+															"attributes": [],
+															"computedValue": "",
+															"displayName": "label",
+															"name": "label",
+															"type": 1,
+															"value": ""
+														},
+														{
+															"attributes": [],
+															"computedValue": "media",
+															"displayName": "contentPlugin",
+															"name": "contentPlugin",
+															"type": 1,
+															"value": "media"
+														}
+													],
+													"computedValue": null,
+													"displayName": "1",
+													"name": "1",
+													"type": 2,
+													"value": null
 												}
 											],
 											"computedValue": null,
