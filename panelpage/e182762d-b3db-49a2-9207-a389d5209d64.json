@@ -485,11 +485,11 @@
 																},
 																{
 																	"attributes": [],
-																	"computedValue": "Sidebar",
+																	"computedValue": "\u003cul\u003e\n  \u003cli\u003eWhat is green software?\u003c/li\u003e\n  \u003cli\u003eWho should read this?\u003c/li\u003e\n  \u003cli\u003eHistory\u003c/li\u003e\n  \u003cli\u003eHow to be a green software practitioner\u003c/li\u003e\n  \u003cli\u003ePrinciples, Patterns, and Practices.\u003c/li\u003e\n\u003c/ul\u003e",
 																	"displayName": "Content",
 																	"name": "content",
 																	"type": 1,
-																	"value": "Sidebar"
+																	"value": "\u003cul\u003e\n  \u003cli\u003eWhat is green software?\u003c/li\u003e\n  \u003cli\u003eWho should read this?\u003c/li\u003e\n  \u003cli\u003eHistory\u003c/li\u003e\n  \u003cli\u003eHow to be a green software practitioner\u003c/li\u003e\n  \u003cli\u003ePrinciples, Patterns, and Practices.\u003c/li\u003e\n\u003c/ul\u003e"
 																},
 																{
 																	"attributes": [],
@@ -545,6 +545,31 @@
 															"name": "contentPlugin",
 															"type": 1,
 															"value": "snippet"
+														},
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "",
+																	"displayName": "condition",
+																	"name": "condition",
+																	"type": 1,
+																	"value": ""
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "rules",
+																	"name": "rules",
+																	"type": 4,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "rule",
+															"name": "rule",
+															"type": 2,
+															"value": null
 														}
 													],
 													"computedValue": null,
@@ -757,6 +782,14 @@
 											"name": "settings",
 											"type": 2,
 											"value": null
+										},
+										{
+											"attributes": [],
+											"computedValue": "undefined",
+											"displayName": "plugin",
+											"name": "plugin",
+											"type": 0,
+											"value": "undefined"
 										}
 									],
 									"computedValue": null,
