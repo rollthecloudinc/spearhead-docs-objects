@@ -485,11 +485,11 @@
 																},
 																{
 																	"attributes": [],
-																	"computedValue": "\u003cul class=\"px-2 py-2 border-l border-l-stone-300\"\u003e\n  \u003cli class=\"px-2 py-2\"\u003eWhat is green software?\u003c/li\u003e\n  \u003cli class=\"px-2 py-2\"\u003eWho should read this?\u003c/li\u003e\n  \u003cli class=\"px-2 py-2\"\u003eHistory\u003c/li\u003e\n  \u003cli class=\"px-2 py-2\"\u003eHow to be a green software practitioner\u003c/li\u003e\n  \u003cli class=\"px-2 py-2\"\u003ePrinciples, Patterns, and Practices.\u003c/li\u003e\n\u003c/ul\u003e",
+																	"computedValue": "\u003cul class=\"px-2 py-2 border-l border-l-stone-300\"\u003e\n  \u003cli class=\"px-2 py-2 text-sm\"\u003eWhat is green software?\u003c/li\u003e\n  \u003cli class=\"px-2 py-2 text-sm\"\u003eWho should read this?\u003c/li\u003e\n  \u003cli class=\"px-2 py-2 text-sm\"\u003eHistory\u003c/li\u003e\n  \u003cli class=\"px-2 py-2 text-sm\"\u003eHow to be a green software practitioner\u003c/li\u003e\n  \u003cli class=\"px-2 py-2 text-sm\"\u003ePrinciples, Patterns, and Practices.\u003c/li\u003e\n\u003c/ul\u003e",
 																	"displayName": "Content",
 																	"name": "content",
 																	"type": 1,
-																	"value": "\u003cul class=\"px-2 py-2 border-l border-l-stone-300\"\u003e\n  \u003cli class=\"px-2 py-2\"\u003eWhat is green software?\u003c/li\u003e\n  \u003cli class=\"px-2 py-2\"\u003eWho should read this?\u003c/li\u003e\n  \u003cli class=\"px-2 py-2\"\u003eHistory\u003c/li\u003e\n  \u003cli class=\"px-2 py-2\"\u003eHow to be a green software practitioner\u003c/li\u003e\n  \u003cli class=\"px-2 py-2\"\u003ePrinciples, Patterns, and Practices.\u003c/li\u003e\n\u003c/ul\u003e"
+																	"value": "\u003cul class=\"px-2 py-2 border-l border-l-stone-300\"\u003e\n  \u003cli class=\"px-2 py-2 text-sm\"\u003eWhat is green software?\u003c/li\u003e\n  \u003cli class=\"px-2 py-2 text-sm\"\u003eWho should read this?\u003c/li\u003e\n  \u003cli class=\"px-2 py-2 text-sm\"\u003eHistory\u003c/li\u003e\n  \u003cli class=\"px-2 py-2 text-sm\"\u003eHow to be a green software practitioner\u003c/li\u003e\n  \u003cli class=\"px-2 py-2 text-sm\"\u003ePrinciples, Patterns, and Practices.\u003c/li\u003e\n\u003c/ul\u003e"
 																},
 																{
 																	"attributes": [],
