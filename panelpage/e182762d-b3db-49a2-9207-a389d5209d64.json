@@ -534,6 +534,88 @@
 													"name": "3",
 													"type": 2,
 													"value": null
+												},
+												{
+													"attributes": [
+														{
+															"attributes": [
+																{
+																	"attributes": [],
+																	"computedValue": "text/html",
+																	"displayName": "Content Type",
+																	"name": "contentType",
+																	"type": 1,
+																	"value": "text/html"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": "<classifieds-ui-page-router-link href=\"[_page.path]/manage\" text=\"Edit this Page\"></classifieds-ui-page-router-link>",
+																	"displayName": "Content",
+																	"name": "content",
+																	"type": 1,
+																	"value": "<classifieds-ui-page-router-link href=\"[_page.path]/manage\" text=\"Edit this Page\"></classifieds-ui-page-router-link>"
+																},
+																{
+																	"attributes": [],
+																	"computedValue": null,
+																	"displayName": "jsScript",
+																	"name": "jsScript",
+																	"type": 1,
+																	"value": null
+																}
+															],
+															"computedValue": null,
+															"displayName": "settings",
+															"name": "settings",
+															"type": 2,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "false",
+															"displayName": "locked",
+															"name": "locked",
+															"type": 5,
+															"value": "false"
+														},
+														{
+															"attributes": [],
+															"computedValue": null,
+															"displayName": "contexts",
+															"name": "contexts",
+															"type": 4,
+															"value": null
+														},
+														{
+															"attributes": [],
+															"computedValue": "",
+															"displayName": "name",
+															"name": "name",
+															"type": 1,
+															"value": ""
+														},
+														{
+															"attributes": [],
+															"computedValue": "",
+															"displayName": "label",
+															"name": "label",
+															"type": 1,
+															"value": ""
+														},
+														{
+															"attributes": [],
+															"computedValue": "snippet",
+															"displayName": "contentPlugin",
+															"name": "contentPlugin",
+															"type": 1,
+															"value": "snippet"
+														}
+													],
+													"computedValue": null,
+													"displayName": "4",
+													"name": "4",
+													"type": 2,
+													"value": null
 												}
 											],
 											"computedValue": null,
